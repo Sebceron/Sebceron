@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sebceron
+👋 Hi, I’m Sebastian Jiménez
 - 👀 I’m interested in mastering programming and data analysis skills
 - 🌱 I’m currently learning Python and data analysis
 - 💞️ I’m looking to collaborate on data analysis projects and open-source Python projects
